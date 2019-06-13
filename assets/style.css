@@ -1,0 +1,38 @@
+body{
+    /* height: 200vh;
+   display: grid;
+   grid-template: "a header a" 50px 
+   "a aside a" 200px
+   "a main a" 500px
+   "a form a" 400px
+   "a footer a" 50px
+   1fr 960px 1fr; */
+   width: 960px;
+   margin: 0 auto;
+   
+}
+
+/* header{
+    grid-area: header;
+    background-color: aqua;
+}
+
+aside{
+    grid-area: aside;
+    background-color: black;
+}
+
+main{
+    grid-area: main;
+    background-color: red;
+}
+
+form{
+    grid-area: form;
+    background-color: yellow;
+}
+
+footer{
+    grid-area: footer;
+    background-color: blue;
+} */
