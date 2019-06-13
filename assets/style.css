@@ -36,3 +36,94 @@ footer{
     grid-area: footer;
     background-color: blue;
 } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ここからコンタクトとフッター */
+
+footer h2{
+    color: grey;
+    font-size: 35px;
+    padding: 20px;
+}
+
+form{
+    display: flex;
+    flex-direction:column;
+    width: 590px;
+    margin: 0 auto;    
+}
+
+form input{
+    margin-top:20px;
+    opacity: 0.7;
+}
+
+.name{
+    height: 50px;
+    font-size: 20px;
+    color:#C0C0C0;
+    
+}
+
+.message{
+    height:250px ;
+    font-size: 20px;
+    color:#C0C0C0;
+    
+}
+
+
+
+.submit-btn{
+    height:50px ;
+    background-color:#808080;
+    border-radius: 5px;
+    border-color:#808080;
+    color:white;
+    font-size: 20px;
+    
+}
+
+
+.footer{
+    margin-top:50px;
+    height: 50px;
+    background-color: black;
+    
+}
+
+.footer p{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
