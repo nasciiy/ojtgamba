@@ -3,11 +3,6 @@ body{
    margin: 0 auto;
 }
 
-h1{
-    font-size: 35px;
-    color: #707070;
-}
-
 /* header start */
 .header{
     height: 88px;
@@ -68,14 +63,9 @@ main h1{
 
 .img-box li a{
     text-align: right;
+    text-decoration: none;
 }
 /* main end */
-footer{
-    grid-area: footer;
-    background-color: blue;
-} */
-
-
 
 
 
